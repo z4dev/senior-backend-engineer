@@ -1,4 +1,4 @@
-## SOLID 
+## SOLID -  Clean Code Principles
 
 SOLID is a set of **design rules** to make your code:
 
@@ -29,3 +29,7 @@ SOLID is a set of **design rules** to make your code:
 * Tools don't depend on specific other tools to work (Dependency Inversion)
 
 **Bottom Line:** SOLID = Building code like professional construction instead of a house of cards that falls over when you touch it.
+
+---
+
+Link : [http://figma.com/board/wiW14trivzIjOjkghESFeW/Untitled?node-id=0-1&p=f](https://www.figma.com/board/wiW14trivzIjOjkghESFeW/Untitled?node-id=0-1&p=f)
